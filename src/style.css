@@ -1,0 +1,201 @@
+.background-hitam{
+    background:rgba(6, 11,14, 1);
+}
+section{
+    height: 100vh;
+}
+.bagian-main{
+    height: 100vh;
+   background: url('/static/chapter3/assets/main-bg.jpg');
+   background-size: 100% 100%;
+   
+}
+.bagian-secondary{
+    height: 100vh;
+   background: url('/static/chapter3/assets/the-games-bg.jpg');
+   background-size: 100% 100%;
+   
+  
+}
+.bagian-third{
+    height: 100vh;
+    background: url('/static/chapter3/assets/features.jpg');
+    background-size: 90% 100%;
+    background-repeat: no-repeat;
+}
+.bagian-fourth{
+    height: 100vh;
+    background: url('/static/chapter3/assets/requirements.png');
+    background-size: 70% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-clip: border-box;
+    
+}
+.bagian-fifth{
+    height: 100vh;
+    background: url('/static/chapter3/assets/top-score-bg.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.bg-dark-new{
+    background-color: rgba(0, 0 ,0, 0.5);
+    
+}
+.play-traditional{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 83px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.sub-play-tradisional{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: white;
+    line-height: 28px;
+    letter-spacing: 2px;
+}
+.btn-color-play{
+    background:linear-gradient(183.46deg, #FFB548 11.27%, #F3AF34 90.4%);
+    border-radius: 4px;
+}
+.btn-sizing-play{
+    height: 60px;
+    width: 260px;
+    
+}
+
+.font-tebal{
+    font-size: large;
+    font-weight: 900;
+}
+
+.margin-top-content{
+    margin-top: 100px;
+}
+.h1-sub-content{
+    font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 3px;
+text-transform: uppercase;
+color: white;
+}
+.h3-sub-content{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color:white;
+}
+.judul-sub-konten{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    letter-spacing: 2px;
+    color: #FFB548;
+}
+.isi-content{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* or 122% */
+    
+    
+    
+    color: #FFFFFF;
+}
+.my-10{
+    margin-top: 100px;
+}
+.img-binar-icon{
+    width: 4vw;
+    border-radius: 100%;
+}
+.warna-card{
+    background: rgb(26, 27, 27) !important;
+}
+.warna-kuning-gradasi{
+    color:#FFB548;
+}
+.warna-putih{
+    color: white;
+}
+
+.ls-2{
+    letter-spacing: 2px;
+}
+.ls-3{
+    letter-spacing: 3px;
+}
+.ls-01{
+    letter-spacing: 0.1rem;
+}
+.ml-10{
+    margin-left: 10vw;
+}
+.mt-20{
+    margin-top: 20vh;
+}
+.mr-10{
+    margin-right: 10vw;
+}
+.font-arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.size-56{
+    font-size: 56px;
+}
+.weight-normal{
+    font-weight: normal;
+}
+.weight-bold{
+    font-weight: bold;
+}
+.mt-50{
+    margin-top: 30vh;
+}
+.mt-10{
+    margin-top: 10vh;
+}
+.mt-10-persen{
+    margin-top: 10%;
+}
+.inline-block{
+    display: inline-block;
+    display: -webkit-inline-box;
+    display: -moz-inline-box ;
+}
+
+.border-white-invis{
+    border: 1px solid #979797;
+}
+
+.f1{
+    font-size: 12px;
+}
+.border-bottom-invis{
+    border-bottom: 1px solid #979797;
+}
+
+.position-absolute-bot{
+    position: absolute;
+    bottom: 10px;
+    right: 46%;
+}
+.auto-margin{
+    margin: auto;
+}
+.lebar-75-persen{
+    width: 70%;
+}
